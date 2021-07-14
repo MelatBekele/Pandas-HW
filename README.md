@@ -1,4 +1,26 @@
 # Pandas Homework - Pandas, Pandas, Pandas
+Comment/Observation: 
+    2- Purchasing Analysis (Total) : 
+•	Number of Unique Items: 576
+•	Average Price: 3.050987
+•	Number of Purchases: 780 
+•	Total Revenue: 2379.77
+    3- Gender Demographics: 
+•	Male : 484, about 84.03% of the demography 
+•	Femail: 81 making about  14.06% of the demography and other making 1.9%
+    4- Purchasing Analysis (Gender)
+•	Per gender demography : Total Purcahse value is higher in male making about 1,967 while female 361
+    5- Age Demographics
+•	Based on the age Demography the age 20-24 made the higest purchase $365.0
+    6- Top Spenders
+•	Top spenders for purchase was Lisosia93 with total value of 18.96 and Idastidru52 was 15.45
+    7- Most Popular Items
+•	Most popular item from the items list was Final Critic and Oathbreaker, Last Hope of the Breaking Storm  
+    8 - Most Profitable Item
+•	Most profitiable Item was Final Critic with $59.99
+
+
+
 
 ## Background
 
